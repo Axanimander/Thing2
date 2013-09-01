@@ -1,0 +1,12 @@
+#define RIGHT 260
+#define LEFT 261
+#define UP 259
+#define DOWN 258
+#define RETURN 10
+#define HELLOKEY 104
+#define STAY -1
+#define ATTACK 'a'
+#define PICKUP 'p'
+#define DISPLAYINV 'I'
+#define EXIT 'z'
+#define DISPLAYEQUIPMENT 'E'
